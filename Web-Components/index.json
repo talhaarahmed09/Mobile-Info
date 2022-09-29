@@ -34,5 +34,17 @@
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
+    },
+   {
+        "company name": "oppo",
+        "model number": "4662",
+        "ram": "4gb",
+        "storage": "128 gb",
+        "color": "blue",
+        "number of speakers": "2",
+        "launch Date":["28/11/2019"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
     }
 ]
