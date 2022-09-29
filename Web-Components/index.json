@@ -1,0 +1,26 @@
+[
+    {
+        "company name": "samsung",
+        "model number": "9022",
+        "ram": "8gb",
+        "storage": "64 gb",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date":["26/5/2014"],
+        "camera": "32 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    },
+    {
+        "company name": "vivo",
+        "model number": "4562",
+        "ram": "8gb",
+        "storage": "64 gb",
+        "color": "pink",
+        "number of speakers": "2",
+        "launch Date":["28/11/2019"],
+        "camera": "32 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
+]
