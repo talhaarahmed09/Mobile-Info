@@ -13,6 +13,7 @@
         "connectivity":"c"
     },
     {
+        "id": "2",
         "company name": "2",
         "model number": "4562",
         "ram": "8gb",
@@ -23,8 +24,9 @@
         "camera": "32 mp",
         "speed": "5g",
         "connectivity":"c"
-    }
+    },
     {
+        "id": "3",
         "company name": "oppo",
         "model number": "4662",
         "ram": "4gb",
@@ -36,7 +38,7 @@
         "speed": "5g",
         "connectivity":"c"
     },
-   {
+    {   "id": "4",
         "company name": "oppo",
         "model number": "4662",
         "ram": "4gb",
