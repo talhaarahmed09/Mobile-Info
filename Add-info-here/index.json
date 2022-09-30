@@ -99,5 +99,18 @@
         "camera": "128 mp",
         "speed": "4g",
         "connectivity":"c"
+    },
+    {
+        "id": "9",
+        "company name": "samsung",
+        "model number": "M-12",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "black",
+        "number of speakers": "1",
+        "launch Date":["20/1/2020"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
     }
 ]
