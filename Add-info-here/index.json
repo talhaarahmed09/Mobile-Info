@@ -112,5 +112,18 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
+    },
+    {
+        "id": "10",
+        "company name": "samsung",
+        "model number": "M-10",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "white",
+        "number of speakers": "2",
+        "launch Date":["30/9/202"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
     }
 ]
