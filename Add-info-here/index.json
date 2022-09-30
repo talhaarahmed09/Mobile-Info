@@ -235,6 +235,22 @@
 
         "connectivity":"c"
     },
+    {
+        "id": "18",
+        "company name": "Motorola",
+        "model number": "Edge 30 Ultra",
+        "ram": "8gb",
+        "storage": "128gb",
+        "color": "white & black",
+        "number of speakers": "2",
+        "launch Date":["08/9/2022"],
+        "camera": "200mp",
+        "speed": "5g",
+
+        "connectivity":"c"
+        
+    }
+        
 
     
 
