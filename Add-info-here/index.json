@@ -138,5 +138,19 @@
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
+    },
+     {
+        "id": "11",
+        "company name": "appple",
+        "model number": "iphone 13 pro ",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "golden",
+        "number of speakers": "2",
+        "launch Date":["14/9/2021"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
     }
+
 ]
