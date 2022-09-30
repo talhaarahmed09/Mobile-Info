@@ -139,4 +139,17 @@
         "speed": "5g",
         "connectivity":"c"
     }
+      {
+        "id": "11",
+        "company name": "Xiaomi",
+        "model number": "Black shark 3",
+        "ram": "12gb",
+        "storage": "256 gb",
+        "color": "black",
+        "number of speakers": "2",
+        "launch Date":["30/9/202"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
 ]
