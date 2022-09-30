@@ -102,6 +102,19 @@
     },
     {
         "id": "9",
+        "company name": "Realme ",
+        "model number": "narzo-30",
+        "ram": "6gb",
+        "storage": "128 gb",
+        "color": "blue",
+        "number of speakers": "1",
+        "launch Date":["16/1/2020"],
+        "camera": "64 mp",
+        "speed": "4g",
+        "connectivity":"c"
+    },
+     {
+        "id": "10",
         "company name": "samsung",
         "model number": "M-12",
         "ram": "6gb",
