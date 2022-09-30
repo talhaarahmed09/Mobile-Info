@@ -128,6 +128,17 @@
     },
     {
         "id": "10",
+
+        "company name": "redmi",
+        "model number": "redmi note 8",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "black",
+        "number of speakers": "1",
+        "launch Date":["29/08/2019"],
+        "camera": "48 mp",
+        "speed": "4g",
+},{
         "company name": "samsung",
         "model number": "M-10",
         "ram": "6gb",
@@ -178,7 +189,7 @@
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
-    }
+    },
     {
         "id": "12",
         "company name": "Oppo",
@@ -190,6 +201,7 @@
         "launch Date":["26/9/2020"],
         "camera": "64 mp",
         "speed": "5g",
+
         "connectivity":"c"
     }
     
