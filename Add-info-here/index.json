@@ -220,6 +220,22 @@
 
         "connectivity":"c"
     },
+
+    {
+        "id": "17",
+        "company name": "relame",
+        "model number": "Narzo 30",
+        "ram": "4gb",
+        "storage": "32 gb",
+        "color": "silver",
+        "number of speakers": "2",
+        "launch Date":["26/05/2021"],
+        "camera": "64 mp",
+        "speed": "5g",
+
+        "connectivity":"c"
+    },
+
     
 
 ]
