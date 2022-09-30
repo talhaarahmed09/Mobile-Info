@@ -138,7 +138,7 @@
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
-    }
+    },
       {
         "id": "11",
         "company name": "Xiaomi",
@@ -148,6 +148,19 @@
         "color": "black",
         "number of speakers": "2",
         "launch Date":["30/9/202"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    },
+{
+        "id": "12",
+        "company name": "One Plus",
+        "model number": "Nord",
+        "ram": "12gb",
+        "storage": "256 gb",
+        "color": "marble blue",
+        "number of speakers": "2",
+        "launch Date":["31/3/2020"],
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
