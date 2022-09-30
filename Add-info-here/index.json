@@ -166,4 +166,18 @@
         "speed": "5g",
         "connectivity":"c"
     }
+    {
+        "id": "12",
+        "company name": "Oppo",
+        "model number": "A-17",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "white",
+        "number of speakers": "2",
+        "launch Date":["26/9/2020"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
+    
 ]
