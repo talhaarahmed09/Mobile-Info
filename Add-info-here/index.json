@@ -112,5 +112,18 @@
         "camera": "64 mp",
         "speed": "4g",
         "connectivity":"c"
+    },
+    {
+        "id": "10",
+        "company name": "redmi",
+        "model number": "redmi note 8",
+        "ram": "4gb",
+        "storage": "64 gb",
+        "color": "black",
+        "number of speakers": "1",
+        "launch Date":["29/08/2019"],
+        "camera": "48 mp",
+        "speed": "4g",
+        "connectivity":"c"
     }
 ]
